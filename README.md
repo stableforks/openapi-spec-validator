@@ -1,8 +1,10 @@
+(This is a fork from https://github.com/p1c2u/openapi-spec-validator)
+
 # OpenAPI Spec validator
 
 [![Package Version](https://img.shields.io/pypi/v/openapi-spec-validator.svg)](https://pypi.python.org/pypi/openapi-spec-validator)
-[![Build Status](https://travis-ci.org/p1c2u/openapi-spec-validator.svg?branch=master)](https://travis-ci.org/p1c2u/openapi-spec-validator)
-[![Code Coverage](https://img.shields.io/codecov/c/github/p1c2u/openapi-spec-validator/master.svg?style=flat)](https://codecov.io/github/p1c2u/openapi-spec-validator?branch=master)
+[![Build Status](https://travis-ci.org/stableforks/stableforks-openapi-spec-validator.svg?branch=master)](https://travis-ci.org/stableforks/stableforks-openapi-spec-validator)
+[![Code Coverage](https://img.shields.io/codecov/c/github/stableforks/stableforks-openapi-spec-validator/master.svg?style=flat)](https://codecov.io/github/stableforks/stableforks-openapi-spec-validator?branch=master)
 [![PyPI Version](https://img.shields.io/pypi/pyversions/openapi-spec-validator.svg)](https://pypi.python.org/pypi/openapi-spec-validator)
 [![PyPI Format](https://img.shields.io/pypi/format/openapi-spec-validator.svg)](https://pypi.python.org/pypi/openapi-spec-validator)
 [![PyPI Status](https://img.shields.io/pypi/status/openapi-spec-validator.svg)](https://pypi.python.org/pypi/openapi-spec-validator)

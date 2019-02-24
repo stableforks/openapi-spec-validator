@@ -10,7 +10,7 @@ from openapi_spec_validator.validators import SpecValidator
 __author__ = 'Artur Maciag'
 __email__ = 'maciag.artur@gmail.com'
 __version__ = '0.2.5'
-__url__ = 'https://github.com/p1c2u/openapi-spec-validator'
+__url__ = 'https://github.com/stableforks/stableforks-openapi-spec-validator'
 __license__ = 'Apache License, Version 2.0'
 
 __all__ = [
