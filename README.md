@@ -1,13 +1,13 @@
-(This is a fork from https://github.com/p1c2u/openapi-spec-validator)
+(This is a fork from https://github.com/p1c2u/stableforks-openapi-spec-validator)
 
 # OpenAPI Spec validator
 
-[![Package Version](https://img.shields.io/pypi/v/openapi-spec-validator.svg)](https://pypi.python.org/pypi/openapi-spec-validator)
+[![Package Version](https://img.shields.io/pypi/v/stableforks-openapi-spec-validator.svg)](https://pypi.python.org/pypi/stableforks-openapi-spec-validator)
 [![Build Status](https://travis-ci.org/stableforks/stableforks-openapi-spec-validator.svg?branch=master)](https://travis-ci.org/stableforks/stableforks-openapi-spec-validator)
 [![Code Coverage](https://img.shields.io/codecov/c/github/stableforks/stableforks-openapi-spec-validator/master.svg?style=flat)](https://codecov.io/github/stableforks/stableforks-openapi-spec-validator?branch=master)
-[![PyPI Version](https://img.shields.io/pypi/pyversions/openapi-spec-validator.svg)](https://pypi.python.org/pypi/openapi-spec-validator)
-[![PyPI Format](https://img.shields.io/pypi/format/openapi-spec-validator.svg)](https://pypi.python.org/pypi/openapi-spec-validator)
-[![PyPI Status](https://img.shields.io/pypi/status/openapi-spec-validator.svg)](https://pypi.python.org/pypi/openapi-spec-validator)
+[![PyPI Version](https://img.shields.io/pypi/pyversions/stableforks-openapi-spec-validator.svg)](https://pypi.python.org/pypi/stableforks-openapi-spec-validator)
+[![PyPI Format](https://img.shields.io/pypi/format/stableforks-openapi-spec-validator.svg)](https://pypi.python.org/pypi/stableforks-openapi-spec-validator)
+[![PyPI Status](https://img.shields.io/pypi/status/stableforks-openapi-spec-validator.svg)](https://pypi.python.org/pypi/stableforks-openapi-spec-validator)
 
 ## About
 
@@ -15,7 +15,7 @@ OpenAPI Spec Validator is a Python library that validates OpenAPI Specs against 
 
 ## Installation
 
-    $ pip install openapi-spec-validator
+    $ pip install stableforks-openapi-spec-validator
 
 ## Usage
 
@@ -24,7 +24,7 @@ OpenAPI Spec Validator is a Python library that validates OpenAPI Specs against 
 Straight forward way:
 
 ```bash
-$ openapi-spec-validator some.yaml
+$ stableforks-openapi-spec-validator some.yaml
 ```
 
 or more pythonic way:
