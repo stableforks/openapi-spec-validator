@@ -46,7 +46,7 @@ metadata = get_metadata(init_py)
 
 
 setup(
-    name='openapi-spec-validator',
+    name='stableforks-openapi-spec-validator',
     version=metadata['version'],
     author=metadata['author'],
     author_email=metadata['email'],
